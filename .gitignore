@@ -1,0 +1,10 @@
+# Quake Champions Classic Asset Ignores
+media/BL_proxy/
+media/*.png~
+media/*.kra~
+media/*.mp4
+ref/
+release/
+models/monsters/*.blend1
+models/champions/*.blend1
+textures/id/

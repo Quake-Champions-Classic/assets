@@ -1,0 +1,9 @@
+track28 - Quake Champions Classic Theme
+track29 - Sire of Embers ("Goroth", Vrenna)
+track30 - Goroth 2 ("Goroth", Hulshult)
+track31 - Volkerh 1 ("Volkerh", Vrenna)
+track32 - Volkerh 2 ("Volkerh", Hulshult)
+track33 - Ithagnal 1 ("Ithagnal", Vrenna)
+track34 - Ithagnal 2 ("Ithagnal", Hulshult)
+track35 - Cthalha 1 ("Cthalha", Vrenna)
+track36 - Cthalha 2 ("Cthalha", Hulshult)
